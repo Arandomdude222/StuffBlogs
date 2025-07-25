@@ -26,11 +26,12 @@ A lightweight, database-free blog system built with PHP in a single file. Perfec
 1. **Upload files**:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/Arandomdude222/StuffBlogs.git
+   cd /path/to/extracted/
    ```
    Or download the ZIP and extract.
 
-2. **Set permissions** if not set already:
+2. **Set permissions** if not set already (if you use a webhost that doesn`t  support cli this is not required):
 
    ```bash
    chmod -R 755 posts/ uploads/ cache/ plugins/
